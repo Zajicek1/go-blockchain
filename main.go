@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"blockchain/framework"
+	"github.com/Zajicek1/go-blockchain/blockchain"
 )
 
 func main() {
-	chain := framework.InitBlockchain()
+	chain := blockchain.InitBlockchain()
 
 	chain.Addblock("First block after Genesis")
 	chain.Addblock("Second block after Genesis")
