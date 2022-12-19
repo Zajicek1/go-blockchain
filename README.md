@@ -3,6 +3,6 @@ Introductory creation of a simple blockcahin with a Proof of Work algorithm conc
 This is a beginner elarning process for me to ease and learn the fundamentals of blockchains and blockchain development. 
 
 ### To-Do:
-  - [] Create Merkle tree
-  - [] Utilize a database
-  - [] Run tests on chain
+  - [x] Create Merkle tree
+  - [x] Utilize a database
+  - [x] Run tests on chain
